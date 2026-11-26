@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ticstaffing.com/sitemap.xml
+Sitemap: https://tisstaffing.com/sitemap.xml
